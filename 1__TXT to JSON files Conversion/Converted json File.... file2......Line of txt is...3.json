@@ -1,0 +1,22 @@
+{
+    "Report": "2",
+    "field A": "0",
+    "B": "8",
+    "C": "1",
+    "new field": "1",
+    "D": "4",
+    "out cols": "2",
+    " E": "2",
+    "F": "0",
+    "GH": "0",
+    "KL": "1",
+    "HIthere": "0",
+    "ThisWorks": "1",
+    "Fine": "0",
+    "great": "0",
+    "work": "1",
+    "Base addr": "0x0",
+    "Mask 0x3fff": "newbase",
+    "0x90c000": "0x90c000",
+    "0x7fff": "0x7fff"
+}

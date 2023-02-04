@@ -26,7 +26,7 @@ def checkHex(s):  # Function to check if the string represents a hexadecimal num
 
 
 # ......................................................................................................................
-File_path = "file1.txt"  # Define the path of the Txt file
+File_path = "file2.txt"  # Define the path of the Txt file
 File_Name = os.path.basename(File_path)  # Get the name of the specified path
 Name_Save_File = File_Name.split(".")[0]  # File Name separated by comma, Return the 1st item of the array
 print(Name_Save_File)

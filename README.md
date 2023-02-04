@@ -78,7 +78,12 @@ To deploy this project run
 
 ## Screenshots
 
-![App Screenshot](https://github.com/sarangiWijemanna/T__File-Conversion/blob/main/img.png)
+- Process 1: 
+    ![App Screenshot](https://github.com/sarangiWijemanna/T__File-Conversion/blob/main/img1.png)
+
+- Process 2: 
+    ![App Screenshot](https://github.com/sarangiWijemanna/T__File-Conversion/blob/main/img2.png)
+
 
 ##  Suggestions
 
