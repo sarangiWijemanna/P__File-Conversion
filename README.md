@@ -78,7 +78,7 @@ To deploy this project run
 
 ## Screenshots
 
-![img.png]
+![App Screenshot](https://github.com/sarangiWijemanna/T__File-Conversion/blob/main/img.png)
 
 ##  Suggestions
 
