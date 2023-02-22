@@ -1,5 +1,5 @@
 
-# File Conversion
+# File Conversion 📈🗃
 
 This repository aims to perform file conversion from 1 format to another.
 
@@ -28,14 +28,6 @@ Install my-project with npm
   npm install my-project
   cd my-project
 ```
-    
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
 
 ## Run Locally
 
@@ -48,27 +40,11 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd my-project 
 ```
 
-Install dependencies
-
 ```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
+  ./file.py
 ```
 
 ## Authors
@@ -89,7 +65,7 @@ To deploy this project run
 
 Don't forget to leave feedback if you find this repo useful or any improvemnts⭐
 
-Thank you 🎆
+Thank you ❤
 
 
 
